@@ -106,6 +106,9 @@
       "path": "ui/command_block_screen.json"
     },
     {
+      "path": "ui/jigsaw_editor_screen.json"
+    },
+    {
       "path": "texts/en_GB.lang"
     },
     {
