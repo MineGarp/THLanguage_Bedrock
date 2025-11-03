@@ -112,6 +112,9 @@
       "path": "ui/smithing_table_2_screen_pocket.json"
     },
     {
+      "path": "ui/toast_screen.json"
+    },
+    {
       "path": "texts/en_GB.lang"
     },
     {
