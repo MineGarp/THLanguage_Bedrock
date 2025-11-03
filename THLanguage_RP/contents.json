@@ -118,6 +118,12 @@
       "path": "ui/trade_2_screen.json"
     },
     {
+      "path": "ui/inventory_screen.json"
+    },
+    {
+      "path": "ui/inventory_screen_pocket.json"
+    },
+    {
       "path": "texts/en_GB.lang"
     },
     {
