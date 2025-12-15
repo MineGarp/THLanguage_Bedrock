@@ -1,24 +1,24 @@
 {
     "format_version": 2,
     "header": {
-        "description": "รีซอร์ซแพ็กภาษาไทย Thai Language Resource Pack จัดทำโดย มายก๊าบดอทเป็ด (MineGarp.PED)",
+        "description": "รีซอร์ซแพ็กภาษาไทย Thai Language Resource Pack จัดทำโดย MineGarp (มายก๊าบดอทเป็ด)",
         "name": "THLanguage_Bedrock",
         "uuid": "3d11bf9c-a5a6-4d9a-a7ec-fbfeb12b3690",
         "pack_scope": "all",
-        "version": [1, 1, 3],
+        "version": [1, 1, 4],
         "min_engine_version": [1, 21, 100]
     },
     "metadata": {
-        "authors": ["MineGarp.PED (มายก๊าบดอทเป็ด)"],
+        "authors": ["MineGarp"],
         "url": "https://github.com/MineGarp-PED/THLanguage_Bedrock",
         "license": "MIT"
     },
     "modules": [
         {
-            "description": "รีซอร์ซแพ็กภาษาไทย Thai Language Resource Pack จัดทำโดย มายก๊าบดอทเป็ด (MineGarp.PED)",
+            "description": "รีซอร์ซแพ็กภาษาไทย Thai Language Resource Pack จัดทำโดย MineGarp (มายก๊าบดอทเป็ด)",
             "type": "resources",
             "uuid": "1269ef24-59c0-4804-803b-8ed501460932",
-            "version": [1, 1, 3]
+            "version": [1, 1, 4]
         }
     ]
 }

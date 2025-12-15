@@ -20,7 +20,7 @@ This project is open source. Everyone can access the source code, use it, and co
 
 *This project is a fan-made community project and is **not affiliated with Mojang Studios or Microsoft.***
 
-## 🚀 วิธีการดาวน์โหลด (Downloads)
+## 🚀 วิธีการดาวน์โหลด (Download)
 
 คุณสามารถดาวน์โหลดรีซอร์ซแพ็กล่าสุดได้จากในหน้า [Releases](https://github.com/MineGarp-PED/THLanguage_Bedrock/releases) ของเรา
 
