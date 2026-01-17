@@ -6,7 +6,7 @@
             "font_name": "MinecraftTen",
             "version": 1,
             "font_file": "font/Minecraft-TenTH",
-            "lowPerformanceCompatible": false
+            "lowPerformanceCompatible": true
         }
     ]
 }
