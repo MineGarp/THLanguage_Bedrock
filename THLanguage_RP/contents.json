@@ -16,16 +16,25 @@
       "path": "font/Minecraft-TenTH.ttf"
     },
     {
-      "path": "texts/en_GB.lang"
+      "path": "font/default8.png"
     },
     {
-      "path": "texts/th_TH.lang"
+      "path": "font/glyph_00.png"
+    },
+    {
+      "path": "font/glyph_0E.png"
     },
     {
       "path": "texts/languages.json"
     },
     {
       "path": "texts/language_names.json"
+    },
+    {
+      "path": "texts/en_GB.lang"
+    },
+    {
+      "path": "texts/th_TH.lang"
     }
   ],
   "version": 1
