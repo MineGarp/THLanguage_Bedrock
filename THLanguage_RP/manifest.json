@@ -5,7 +5,7 @@
         "name": "THLanguage_Bedrock",
         "uuid": "3d11bf9c-a5a6-4d9a-a7ec-fbfeb12b3690",
         "pack_scope": "all",
-        "version": [1, 1, 4],
+        "version": [1, 2, 0],
         "min_engine_version": [1, 21, 100]
     },
     "metadata": {
@@ -18,7 +18,7 @@
             "description": "รีซอร์ซแพ็กภาษาไทย Thai Language Resource Pack จัดทำโดยชุมชน MineGarp (มายก๊าบดอทเป็ด)",
             "type": "resources",
             "uuid": "1269ef24-59c0-4804-803b-8ed501460932",
-            "version": [1, 1, 4]
+            "version": [1, 2, 0]
         }
     ]
 }

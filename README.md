@@ -1,18 +1,18 @@
 # THLanguage Bedrock - รีซอร์ซแพ็กภาษาไทยสำหรับ Minecraft Bedrock
 
-[![GitHub stars](https://img.shields.io/github/stars/MineGarp-PED/THLanguage_Bedrock?style=social)](https://github.com/MineGarp-PED/THLanguage_Bedrock/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/MineGarp-PED/THLanguage_Bedrock?style=social)](https://github.com/MineGarp-PED/THLanguage_Bedrock/network/members)
-![GitHub Downloads](https://img.shields.io/github/downloads/MineGarp-PED/THLanguage_Bedrock/total)
+[![GitHub stars](https://img.shields.io/github/stars/MineGarp/THLanguage_Bedrock?style=social)](https://github.com/MineGarp/THLanguage_Bedrock/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/MineGarp/THLanguage_Bedrock?style=social)](https://github.com/MineGarp/THLanguage_Bedrock/network/members)
+![GitHub Downloads](https://img.shields.io/github/downloads/MineGarp/THLanguage_Bedrock/total)
 [![Discord](https://img.shields.io/discord/992026973746511912?label=Discord&logo=discord)](https://discord.gg/mvZChPs72R)
-![Minecraft Bedrock 1.21.130](https://img.shields.io/badge/Minecraft_Bedrock-1.21.130-brightgreen.svg)
+![Minecraft Bedrock 26.0](https://img.shields.io/badge/Minecraft_Bedrock-26.0-brightgreen.svg)
 
 โปรเจกต์รีซอร์ซแพ็กภาษาไทยสำหรับเกม **Minecraft: Bedrock Edition** ที่สมบูรณ์และอัปเดตที่สุด จัดทำและดูแลโดยชุมชน **MineGarp (มายก๊าบดอทเป็ด)** โดยมีเป้าหมายเพื่อมอบประสบการณ์การเล่นเกมฉบับภาษาไทยที่ถูกต้องและเป็นธรรมชาติที่สุดสำหรับผู้เล่นทุกคน
 
-โปรเจกต์นี้เปิดเป็นโอเพนซอร์ส (Open Source) ทุกคนสามารถเข้าถึงซอร์สโค้ด นำไปใช้งาน และร่วมพัฒนาได้ภายใต้สัญญาอนุญาต [MIT License](https://github.com/MineGarp-PED/THLanguage_Bedrock/blob/main/LICENSE)
+โปรเจกต์นี้เปิดเป็นโอเพนซอร์ส (Open Source) ทุกคนสามารถเข้าถึงซอร์สโค้ด นำไปใช้งาน และร่วมพัฒนาได้ภายใต้สัญญาอนุญาต [MIT License](https://github.com/MineGarp/THLanguage_Bedrock/blob/main/LICENSE)
 
 This project is the most complete and up-to-date Thai Language Resource Pack for **Minecraft: Bedrock Edition**, created and maintained by the **MineGarp (or MineGarp.PED)** community. Its goal is to provide the most accurate and natural Thai-language experience for all players.
 
-This project is open source. Everyone can access the source code, use it, and contribute to its development under the [MIT License](https://github.com/MineGarp-PED/THLanguage_Bedrock/blob/main/LICENSE)
+This project is open source. Everyone can access the source code, use it, and contribute to its development under the [MIT License](https://github.com/MineGarp/THLanguage_Bedrock/blob/main/LICENSE)
 
 ## ⚠️ ข้อจำกัดความรับผิด (Disclaimer)
 
@@ -22,7 +22,7 @@ This project is open source. Everyone can access the source code, use it, and co
 
 ## 🚀 วิธีการดาวน์โหลด (Download)
 
-คุณสามารถดาวน์โหลดรีซอร์ซแพ็กล่าสุดได้จากในหน้า [Releases](https://github.com/MineGarp-PED/THLanguage_Bedrock/releases) ของเรา
+คุณสามารถดาวน์โหลดรีซอร์ซแพ็กล่าสุดได้จากในหน้า [Releases](https://github.com/MineGarp/THLanguage_Bedrock/releases) ของเรา
 
 ## 🐛 ปัญหาที่รับทราบแล้ว (Known Issues)
 - คอนเทนต์เนื้อหาใน Marketplace/My Content (เนื้อหาของฉัน) ไม่แสดงผล - [MCPE-224860](https://bugs.mojang.com/browse/MCPE-224860)
@@ -57,7 +57,7 @@ This project is open source. Everyone can access the source code, use it, and co
 
 ยินดีต้อนรับทุกคนที่ต้องการเข้ามามีส่วนร่วมในการแปลและพัฒนาโปรเจกต์นี้:
 
-* **รายงานคำแปลที่ผิดพลาด:** หากพบเจอคำแปลที่ผิด, ไม่เป็นธรรมชาติ หรือมีข้อเสนอแนะ สามารถเปิด [Issue](https://github.com/MineGarp-PED/THLanguage_Bedrock/issues) บน GitHub ได้เลย
+* **รายงานคำแปลที่ผิดพลาด:** หากพบเจอคำแปลที่ผิด, ไม่เป็นธรรมชาติ หรือมีข้อเสนอแนะ สามารถเปิด [Issue](https://github.com/MineGarp/THLanguage_Bedrock/issues) บน GitHub ได้เลย
 * **เสนอคำแปลใหม่ (Pull Request):** หากคุณต้องการแก้ไขหรือเพิ่มเติมคำแปล เกมเวอร์ชันใหม่ สามารถ Fork โปรเจกต์นี้แล้วส่ง Pull Request กลับมาได้นะครับ
 * **แลกเปลี่ยนและเสนอแนะ:** เข้าร่วมพูดคุยและเสนอแนะเกี่ยวกับโปรเจกต์ได้ที่ [Discord ของ มายก๊าบดอทเป็ด](https://discord.gg/GCY38MDR2u)
 
@@ -65,11 +65,12 @@ This project is open source. Everyone can access the source code, use it, and co
 
 - MinecraftTenTH (เฉพาะตัวไทยทั้งหมดจากฟอนต์ IannnnnCPU) - **ปรัชญา สิงห์โต (Iannnnn)**
 - MinecraftTen (ไม่รวมตัวไทยทั้งหมด) - **Mojang Studios**
+- Noto Sans Thai - **โมโนไทป์ (Monotype), คัดสรร ดีมาก**
 
 ## ❤️ ผู้สนับสนุนและทีมงาน (Credits)
 
 ขอขอบคุณผู้มีส่วนร่วมทุกท่านที่ช่วยกันพัฒนาโปรเจกต์นี้ให้ดียิ่งขึ้น : )
 
-<a href="https://github.com/MineGarp-PED/THLanguage_Bedrock/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MineGarp-PED/THLanguage_Bedrock"/>
+<a href="https://github.com/MineGarp/THLanguage_Bedrock/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MineGarp/THLanguage_Bedrock"/>
 </a>
