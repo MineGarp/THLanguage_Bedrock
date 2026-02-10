@@ -36,7 +36,7 @@
     "settings": [
         {
             "type": "label",
-            "text": "เลือกฟอนต์สำหรับตัวอักษรภาษาไทยเฉพาะ JsonUI\n\n§lUnicode Font:§r ฟอนต์ต้นฉบับในตัวเกม Minecraft\n§lNoto Sans Font:§r ฟอนต์แบบใหม่ที่เพิ่มเข้ามาในแพ็ก (ใช้ใน OreUI)"
+            "text": "เลือกฟอนต์สำหรับตัวอักษรภาษาไทยมีผลเฉพาะ JsonUI\n\n§lUnicode Font:§r ฟอนต์ต้นฉบับในตัวเกม Minecraft\n§lNoto Sans Font:§r ฟอนต์แบบใหม่ที่เพิ่มเข้ามาในแพ็ก (ใช้ใน OreUI)"
         }
       ]
 }
