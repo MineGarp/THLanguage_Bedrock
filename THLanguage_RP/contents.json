@@ -16,13 +16,13 @@
       "path": "font/Minecraft-TenTH.ttf"
     },
     {
-      "path": "font/default8.png"
+      "path": "subpacks/font/default8.png"
     },
     {
-      "path": "font/glyph_00.png"
+      "path": "subpacks/font/glyph_00.png"
     },
     {
-      "path": "font/glyph_0E.png"
+      "path": "subpacks/font/glyph_0E.png"
     },
     {
       "path": "texts/languages.json"

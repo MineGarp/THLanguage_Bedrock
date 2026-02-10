@@ -20,5 +20,23 @@
             "uuid": "1269ef24-59c0-4804-803b-8ed501460932",
             "version": [1, 2, 0]
         }
-    ]
+    ],
+    "subpacks": [
+        {
+            "folder_name": "Unicode",
+            "name": "Unicode Font",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "NotoSans",
+            "name": "Noto Sans Font",
+            "memory_tier": 0
+        }
+    ],
+    "settings": [
+        {
+            "type": "label",
+            "text": "เลือกฟอนต์สำหรับตัวอักษรภาษาไทยเฉพาะ JsonUI\n\n§lUnicode Font:§r ฟอนต์ต้นฉบับในตัวเกม Minecraft\n§lNoto Sans Font:§r ฟอนต์แบบใหม่ที่เพิ่มเข้ามาในแพ็ก (ใช้ใน OreUI)"
+        }
+      ]
 }
