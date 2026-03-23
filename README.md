@@ -73,7 +73,7 @@ This project is open source. Everyone can access the source code, use it, and co
 
 ## 🔠 รายละเอียดเกี่ยวกับฟอนต์ (Font Details)
 
-- MinecraftTenTH (เฉพาะตัวไทยทั้งหมดจากฟอนต์ IannnnnCPU) - **ปรัชญา สิงห์โต (Iannnnn)**
+- MinecraftTenTH (เฉพาะตัวไทยทั้งหมด) - **ImNotSus555**
 - MinecraftTen (ไม่รวมตัวไทยทั้งหมด) - **Mojang Studios**
 - Noto Sans Thai - **โมโนไทป์ (Monotype), คัดสรร ดีมาก**
 
