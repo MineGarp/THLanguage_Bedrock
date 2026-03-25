@@ -20878,3 +20878,12 @@ editor.prefabTemplateEditor.pane.templateManager.newTemplate.name.tooltip=ชื
 editor.prefabTemplateEditor.pane.templateManager.newTemplate.displayName=ชื่อที่แสดง
 editor.prefabTemplateEditor.pane.templateManager.newTemplate.displayName.tooltip=ชื่อที่แสดงสำหรับแม่แบบใหม่
 editor.prefabTemplateEditor.tool.button.save=บันทึก
+
+## furnace_recipe_book
+furnaceScreen.tab.search=ทั้งหมด
+furnaceScreen.tab.search.filterFurnace=ที่เผาได้
+furnaceScreen.tab.search.filterSmoker=ที่รมควันได้
+furnaceScreen.tab.food=อาหาร
+furnaceScreen.tab.blocks=บล็อก
+furnaceScreen.tab.items=ไอเทม
+furnaceScreen.tab.inventory=ช่องเก็บของ
