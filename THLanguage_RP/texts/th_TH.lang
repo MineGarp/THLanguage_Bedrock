@@ -22547,6 +22547,11 @@ resourcePack.editor.toolRail.guidePlanes.viewControl.sort.oldestNewest=เก่
 resourcePack.editor.toolRail.guidePlanes.viewControl.sort.aToZ=A-z
 resourcePack.editor.toolRail.guidePlanes.viewControl.sort.zToA=z-A
 
+## experimental_poi
+commands.locate.poi.not_found=ไม่พบจุดที่น่าสนใจประเภท "%s" ภายในระยะทางที่เหมาะสม
+commands.locate.poi.noplayer=คำสั่งนี้สามารถใช้ได้โดยผู้เล่นที่ถูกต้องเท่านั้น
+commands.locate.poi.success=จุดที่น่าสนใจประเภท %1$s ที่อยู่ใกล้ที่สุดอยู่ที่ %2$s %3$s %4$s (ห่างออกไป %5$s บล็อก)
+
 ## experimental_y_2026_drop_2
 entity.sulfur_cube.name=สไลม์กำมะถัน
 item.spawn_egg.entity.sulfur_cube.name=ไข่เกิดสไลม์กำมะถัน
