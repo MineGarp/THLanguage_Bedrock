@@ -4,7 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/MineGarp/THLanguage_Bedrock?style=social)](https://github.com/MineGarp/THLanguage_Bedrock/network/members)
 ![GitHub Downloads](https://img.shields.io/github/downloads/MineGarp/THLanguage_Bedrock/total)
 [![Discord](https://img.shields.io/discord/992026973746511912?label=Discord&logo=discord)](https://discord.gg/mvZChPs72R)
-![Minecraft Bedrock 26.40](https://img.shields.io/badge/Minecraft_Bedrock-26.40-brightgreen.svg)
+![Minecraft Bedrock 26.50](https://img.shields.io/badge/Minecraft_Bedrock-26.50-brightgreen.svg)
 
 โปรเจกต์รีซอร์ซแพ็กภาษาไทยสำหรับเกม **Minecraft: Bedrock Edition** ที่สมบูรณ์และอัปเดตที่สุด จัดทำและดูแลโดยชุมชน **MineGarp (มายก๊าบดอทเป็ด)** โดยมีเป้าหมายเพื่อมอบประสบการณ์การเล่นเกมฉบับภาษาไทยที่ถูกต้องและเป็นธรรมชาติที่สุดสำหรับผู้เล่นทุกคน
 
