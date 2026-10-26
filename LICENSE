@@ -1,21 +1,23 @@
-MIT License
+Copyright (c) 2026 MineGarp
 
-Copyright (c) 2024 MineGarp
+Translation files that the project has the right to license are released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Any use, copying, modification, or distribution of these files must comply with the terms of that license, including its attribution, NonCommercial, and ShareAlike requirements.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+See the LICENSE file for the complete license terms.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Third-party content, if any, remains subject to its respective licenses and is not covered by this notice unless explicitly stated otherwise.
+
+## Commercial Use and Separate Permission
+If you wish to sell the translations or otherwise use them commercially, please contact the project maintainers to obtain separate written permission from the relevant rights holders before proceeding.
+
+Modifying the work does not automatically grant commercial-use rights.
+
+The project may consider granting permission for works that include substantial improvements or further development. Merely changing the name, replacing images, repackaging files, or making minor edits is not sufficient to qualify for consideration.
+
+Approval is not automatic or guaranteed. Any commercial permission is limited to the rights and uses expressly covered by the written agreement.
+
+This commercial permission policy is separate from, and does not modify or add restrictions to, the CC BY-NC-SA 4.0 license.
+
+## Previously Released Versions
+This licensing notice does not revoke permissions already granted for versions previously distributed under the MIT License

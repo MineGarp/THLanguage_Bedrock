@@ -8,11 +8,11 @@
 
 โปรเจกต์รีซอร์ซแพ็กภาษาไทยสำหรับเกม **Minecraft: Bedrock Edition** ที่สมบูรณ์และอัปเดตที่สุด จัดทำและดูแลโดยชุมชน **MineGarp (มายก๊าบดอทเป็ด)** โดยมีเป้าหมายเพื่อมอบประสบการณ์การเล่นเกมฉบับภาษาไทยที่ถูกต้องและเป็นธรรมชาติที่สุดสำหรับผู้เล่นทุกคน
 
-โปรเจกต์นี้เปิดเป็นโอเพนซอร์ส (Open Source) ทุกคนสามารถเข้าถึงซอร์สโค้ด นำไปใช้งาน และร่วมพัฒนาได้ภายใต้สัญญาอนุญาต [MIT License](https://github.com/MineGarp/THLanguage_Bedrock/blob/main/LICENSE)
+โปรเจกต์นี้เปิดเป็นโอเพนซอร์ส (Open Source) ทุกคนสามารถเข้าถึงซอร์สโค้ด นำไปใช้งาน และร่วมพัฒนาได้ภายใต้สัญญาอนุญาต [CC BY-NC-SA 4.0](https://github.com/MineGarp/THLanguage_Bedrock/blob/main/LICENSE)
 
 This project is the most complete and up-to-date Thai Language Resource Pack for **Minecraft: Bedrock Edition**, created and maintained by the **MineGarp (or MineGarp.PED)** community. Its goal is to provide the most accurate and natural Thai-language experience for all players.
 
-This project is open source. Everyone can access the source code, use it, and contribute to its development under the [MIT License](https://github.com/MineGarp/THLanguage_Bedrock/blob/main/LICENSE).
+This project is open source. Everyone can access the source code, use it, and contribute to its development under the [CC BY-NC-SA 4.0](https://github.com/MineGarp/THLanguage_Bedrock/blob/main/LICENSE).
 
 ## ⚠️ ข้อจำกัดความรับผิด (Disclaimer)
 
