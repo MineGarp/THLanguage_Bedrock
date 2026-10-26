@@ -23082,3 +23082,23 @@ resourcePack.editor.customBiome.biomeTree.label.biomeConfiguration=การก�
 commands.locate.poi.not_found=ไม่พบจุดที่น่าสนใจประเภท "%s" ภายในระยะทางที่เหมาะสม
 commands.locate.poi.noplayer=คำสั่งนี้สามารถใช้ได้โดยผู้เล่นที่ถูกต้องเท่านั้น
 commands.locate.poi.success=จุดที่น่าสนใจประเภท %1$s ที่อยู่ใกล้ที่สุดอยู่ที่ %2$s %3$s %4$s (ห่างออกไป %5$s บล็อก)
+
+## experimental_y_2026_drop_4
+effect.freezing=เยือกแข็ง
+entity.frostbite.name=ซอมบี้แช่แข็ง
+entity.ice_ball.name=ก้อนน้ำแข็ง
+item.spawn_egg.entity.frostbite.name=ไข่เกิดซอมบี้แช่แข็ง
+item.ice_ball.name=ก้อนน้ำแข็ง
+potion.freezing=เยือกแข็ง
+potion.freezing.name=น้ำยาเยือกแข็ง
+potion.freezing.splash.name=น้ำยาเยือกแข็งแบบปา
+potion.freezing.linger.name=น้ำยาเยือกแข็งแบบระเหย
+subtitles.block.generic.land=ลงพื้น
+subtitles.block.generic.jump=กระโดด
+subtitles.entity.frostbite.ambient=ซอมบี้แช่แข็งร้องครวญ
+subtitles.entity.frostbite.hurt=ซอมบี้แช่แข็งเจ็บ
+subtitles.entity.frostbite.death=ซอมบี้แช่แข็งตาย
+subtitles.entity.ice_ball.break=ก้อนน้ำแข็งพุ่งชน
+tile.icicle.name=น้ำแข็งย้อย
+tile.ice_crystal.name=ผลึกน้ำแข็ง
+tipped_arrow.effect.freezing=ลูกธนูอาบยาเยือกแข็ง
